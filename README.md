@@ -1,3 +1,7 @@
+# BRAND NEW Update!
+
+Proactively manage your EC2 Spot instances with EC2 Auto Scaling: https://aws.amazon.com/blogs/compute/proactively-manage-spot-instance-lifecycle-using-the-new-capacity-rebalancing-feature-for-ec2-auto-scaling/
+
 # Learn how to handle mixed Purchase Option Kubernetes clusters 
 
 EC2 Spot Workshop (EKS): https://ec2spotworkshops.com/using_ec2_spot_instances_with_eks.html
